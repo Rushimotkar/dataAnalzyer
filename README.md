@@ -1,6 +1,6 @@
 . 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dataAnalyzer.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rushi2data.streamlit.app/)
 
 ### How to run it on your own machine
 
